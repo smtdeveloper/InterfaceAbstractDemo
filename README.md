@@ -28,7 +28,7 @@ Açılan ekranda Address bölümüne servisin WSDL dosyasının adresini(https:/
 
 Bu işlemlerin ardından OK butonuna tıklayarak servis referansının projeye eklenme sürecini tamamlayalım.
 
-###ÖNEMLİ NOT:  
+## ÖNEMLİ NOT:  
 <br>
 Servise doğrulama için gönderilecek ad ve soyad bilgileri tamamen büyük harflerle yazılmış olarak gönderilmelidir.
 
