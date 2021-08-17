@@ -27,3 +27,8 @@ Açılan ekranda Address bölümüne servisin WSDL dosyasının adresini(https:/
 ![image_thumb 8](https://user-images.githubusercontent.com/74311713/129731387-e578c42e-33ca-4313-ae42-46e601edbd12.png)
 
 Bu işlemlerin ardından OK butonuna tıklayarak servis referansının projeye eklenme sürecini tamamlayalım.
+
+###ÖNEMLİ NOT:  
+<br>
+Servise doğrulama için gönderilecek ad ve soyad bilgileri tamamen büyük harflerle yazılmış olarak gönderilmelidir.
+
