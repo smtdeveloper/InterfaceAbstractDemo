@@ -6,22 +6,15 @@
   },
   "ExtendedData": {
     "inputs": [
-      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL"
+      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx"
     ],
     "collectionTypes": [
-      "System.Array",
-      "System.Collections.Generic.Dictionary`2"
+      "System.Collections.Generic.Dictionary`2",
+      "System.Collections.Generic.List`1"
     ],
+    "messageContract": true,
     "namespaceMappings": [
-      "*, MernisServiceReference1"
-    ],
-    "references": [
-      "Google.Protobuf, {Google.Protobuf, 3.13.0}",
-      "Grpc.AspNetCore.Server, {Grpc.AspNetCore.Server, 2.32.0}",
-      "Grpc.Core.Api, {Grpc.Core.Api, 2.32.0}",
-      "Grpc.Net.Common, {Grpc.Net.Common, 2.32.0}",
-      "Newtonsoft.Json, {Newtonsoft.Json, 12.0.2}",
-      "System.Runtime.CompilerServices.Unsafe, {System.Runtime.CompilerServices.Unsafe, 4.5.2}"
+      "*, MernisServiceReference"
     ],
     "targetFramework": "netcoreapp3.1",
     "typeReuseMode": "All"

@@ -10,7 +10,14 @@ namespace InterfaceAbstractDemo.Concrete
     {
         public bool CheckIfRealPerson(Customer customer)
         {
-            return true;
+            if (customer.FirstName.Trim().Length > 0 &&
+                customer.LastName.Trim().Length > 0 &&
+                customer.NationalityId.Length == 11 &&
+                customer.DateOfBirth.Year > 1900);
+            {
+                return true;
+            }
+
         }
     }
 }
