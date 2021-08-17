@@ -1,5 +1,8 @@
 # InterfaceAbstractDemo
-C# - Angular kampı 5.Gün ödevi
+
+Nero ve Starbucks için müşteri kaydetme ve Starbucks için mernis ile doğrulama projesi 
+<br>
+C# - Angular kampı
 
 
 # Linkler
