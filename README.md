@@ -26,7 +26,7 @@ Bu servisi proje içerisinde kullanabilmek için öncelikle Solution Explorer i�
 ![image_thumb 6](https://user-images.githubusercontent.com/74311713/129731311-0f79d6f4-bed7-4ab2-9a51-5dcea45e674f.png)
 
 Açılan ekranda Address bölümüne servisin WSDL dosyasının adresini(https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL) verelim, Namespace bilgisi olarak “Kimlik” kullanalım ve GO butonuna tıklayıp, servisin Services bölümünde listelenmesini sağlayalım.
-
+ 
 ![image_thumb 8](https://user-images.githubusercontent.com/74311713/129731387-e578c42e-33ca-4313-ae42-46e601edbd12.png)
 
 Bu işlemlerin ardından OK butonuna tıklayarak servis referansının projeye eklenme sürecini tamamlayalım.
